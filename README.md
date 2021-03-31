@@ -1,4 +1,4 @@
-# Trading-strategies-tester
+# Trading strategies tester
 1. Название проекта:
 
 Trading strategy tester
